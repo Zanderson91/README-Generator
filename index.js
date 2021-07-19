@@ -4,6 +4,7 @@ const fs = require('fs');
 const util = require('util');
 
 // TODO: Create an array of questions for user input
+function promptUser(){
 const questions = [
   {
     type: "input",
@@ -66,7 +67,17 @@ const generateMarkdown = require ("./utils/generateMarkdown")
 const writeFileAsync = util.promisify(writeToFile)
 
 // TODO: Create a function to initialize app
-function init() {}
+async function init() {
+    try{
+        const answers = await promptUser();
+        const generateResponse = generateMarkdown(response);
+        await writeFileAsync('', generateMarkdown);
+        console.log('Success!');
+    } catch(err) {
+        console.log(err);
+    }
+}
+}
 
 // Function call to initialize app
 init();
