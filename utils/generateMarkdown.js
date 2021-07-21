@@ -4,7 +4,7 @@ function renderLicenseBadge(license) {
    let licenseType = license.license;
   let yourLicense = ''
   if(licenseType === 'MIT License') {
-    yourLicense = `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]`
+    yourLicense = `[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`;
   } else if (licenseType === 'GPLv3') {
     yourLicense = `[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)]`
   } else if (licenseType === 'GPL') {
