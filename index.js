@@ -2,6 +2,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const util = require('util');
+const writeFileAsync = util.promisify(fs.writeFile);
 
 // TODO: Create an array of questions for user input
 function promptUser(){
@@ -75,9 +76,10 @@ function promptUser(){
     message: "What is your email?",
     name: "email",
   }
-];
+])
+}
 
-// TODO: Create a function to write README file
+/*// TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, err =>{
         if(err) {
@@ -86,22 +88,23 @@ function writeToFile(fileName, data) {
         console.log("Your README.md file has been created!")
     })
 }
+*/
 
 const generateMarkdown = require ("./utils/generateMarkdown");
-const writeFileAsync = util.promisify(fs.writeToFile);
+
 
 // TODO: Create a function to initialize app
 async function init() {
     try{
-        const answers = await promptUser();
+        const data = await promptUser();
         const generateResponse = generateMarkdown(data);
-        await writeFileAsync('', generateMarkdown);
+        await writeFileAsync('./utils/readme.md', generateResponse);
         console.log('Success!');
     } catch(err) {
         console.log(err);
     }
 }
-}
+
 
 // Function call to initialize app
 init();
