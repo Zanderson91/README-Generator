@@ -37,7 +37,7 @@ function promptUser(){
     name: "license",
     choices: [
       "GNU AGPLv3",
-      "GNU GPLv3",
+      "GPLv3",
       "GNU LGPLv3",
       "Mozilla Public License 2.0",
       "Apache License 2.0",

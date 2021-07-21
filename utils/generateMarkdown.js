@@ -4,11 +4,11 @@ function renderLicenseBadge(license) {
    let licenseType = license.license; // i think this is problem #1
   let yourLicense = ''
   if(licenseType === 'MIT License') {
-    yourLicense = `![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)`
+    yourLicense = `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]`
   } else if (licenseType === 'GPLv3') {
-    yourLicense = `![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)`
+    yourLicense = `[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)]`
   } else if (licenseType === 'GPL') {
-    yourLicense = `![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)`
+    yourLicense = `[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)]`
   } else {
     license.license = "N/A"
   }
