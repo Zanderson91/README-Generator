@@ -1,9 +1,9 @@
-#asdefvcwdesfv
+#git commit -m "adding variable for renderLicense"
 
-  [badge](https://img.shields.io/badge/license/MIT License/brightgreen)
+  [badge](https://img.shields.io/badge/license/GNU AGPLv3/brightgreen)
 
   #Description
-  awsedfvwdsef
+  clear
 
   # Table of Contents
   - [Description](#description)
@@ -15,21 +15,21 @@
   - [Questions](#questions)
 
   # Installation Details
-  waefcedwsfvc
+  sd
 
   # Usage
-  wsdefvgswefv
+  fvsdfv
 
   # License 
-  MIT License
+  GNU AGPLv3
 
   # Contributing
-  aqwdqwd
+  
 
   # Test
-  qwadqwd
+  sdf
 
   # Questions
-  qwdqwd
-  Github: [qwdqwd] (https://github.com/qwdqwd)
-  Email me your questions: qwdwqd
+  
+  Github: [] (https://github.com/)
+  Email me your questions: 

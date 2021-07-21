@@ -12,6 +12,10 @@ function renderLicenseBadge(licenseType) {
   return yourLicense;
 };
 
+function generateMarkdown(data) {
+    let licenseBadge= renderLicenseBadge(licenseType)
+    return `${data.license}`
+}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -24,9 +28,10 @@ function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
+  renderLicenseBadge(licenseType)
+    return `${data.license}`
+}
   return `#${data.title}
-
-  [badge](https://img.shields.io/badge/license/${data.license}/brightgreen)
 
   #Description
   ${data.description}
@@ -47,6 +52,9 @@ function generateMarkdown(data) {
   ${data.usage}
 
   # License 
+  let someVar = someFunction(someParameter)
+    return `${someVar}`
+}
   ${data.license}
 
   # Contributing
@@ -60,6 +68,6 @@ function generateMarkdown(data) {
   Github: [${data.username}] (https://github.com/${data.username})
   Email me your questions: ${data.email}
 `;
-}
+
 
 module.exports = generateMarkdown;
