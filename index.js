@@ -98,7 +98,7 @@ async function init() {
     try{
         const data = await promptUser();
         const generateResponse = generateMarkdown(data);
-        await writeFileAsync('./Returned README', generateResponse);
+        await writeFileAsync('./Returned README.md', generateResponse);
         console.log('Success!');
     } catch(err) {
         console.log(err);
