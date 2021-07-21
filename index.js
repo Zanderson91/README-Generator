@@ -8,14 +8,8 @@ function promptUser(){
 const questions = [
   {
     type: "input",
-    message: "What is your GitHub Username?",
-    name: "username",
-  },
-
-  {
-    type: "input",
     message: "What is the name of your project?",
-    name: "project",
+    name: "title",
   },
 
   {
@@ -41,7 +35,7 @@ const questions = [
     message: "Please select a license for your project.",
     name: "license",
     choices: [
-        "GNU AGPLv3",
+      "GNU AGPLv3",
       "GNU GPLv3",
       "GNU LGPLv3",
       "Mozilla Public License 2.0",
@@ -50,6 +44,30 @@ const questions = [
       "Boost Software License 1.0",
       "The Unlicense",
     ],
+  },
+
+  {
+    type: "input",
+    message: "Who is contributing",
+    name: "contribution",
+  },
+
+  {
+    type: "input",
+    message: "Is a test included?",
+    name: "test",
+  },
+
+  {
+    type: "input",
+    message: "What do I do if I have a question?",
+    name: "questions",
+  },
+
+  {
+    type: "input",
+    message: "What is your GitHub Username?",
+    name: "username",
   },
 ];
 
