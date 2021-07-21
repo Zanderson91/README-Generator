@@ -16,7 +16,8 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `${data.title}
 
-  [badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
+  [badge](https://img.shields.io/badge/license/${data.license}/brightgreen)
+  https://img.shields.io/github/license/Zanderson91/README-generator
 
   #Description
   ${data.description}
