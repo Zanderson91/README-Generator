@@ -49,7 +49,7 @@ function promptUser(){
 
   {
     type: "input",
-    message: "Who is contributing",
+    message: "Who is contributing?",
     name: "contribution",
   },
 
