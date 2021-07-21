@@ -1,7 +1,7 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-   let licenseType = license.license; // i think this is problem #1
+   let licenseType = license.license;
   let yourLicense = ''
   if(licenseType === 'MIT License') {
     yourLicense = `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]`
@@ -27,10 +27,9 @@ function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `${data.title}
+  return `#${data.title}
 
   [badge](https://img.shields.io/badge/license/${data.license}/brightgreen)
-  https://img.shields.io/github/license/Zanderson91/README-generator
 
   #Description
   ${data.description}

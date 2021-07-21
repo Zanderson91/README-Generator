@@ -1,7 +1,8 @@
 sdvsdv
 
-  [badge](https://img.shields.io/badge/license/GPLv3/brightgreen)
-  https://img.shields.io/github/license/Zanderson91/README-generator
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+
 
   #Description
   sdvsdv
