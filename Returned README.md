@@ -1,6 +1,6 @@
 sdv
 
-  [badge](https://img.shields.io/badge/license/MIT License/brightgreen)
+  [badge](https://img.shields.io/badge/license/MIT/brightgreen)
   https://img.shields.io/github/license/Zanderson91/README-generator
 
   #Description
