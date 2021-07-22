@@ -1,5 +1,9 @@
 # README-Generator
 
+This node command line generator allows users to quickly create README.md files. The files are created seamlessly and include badges/links and details regarding licenses that may be needed/used for the particular project.
+
+![Gif of project](./assets/README%20gif.gif)
+
 # 09 Node.js Homework: Professional README Generator
 
 ## Your Task
