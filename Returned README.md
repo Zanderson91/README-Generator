@@ -1,6 +1,6 @@
 
 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
 
@@ -13,13 +13,13 @@
   
 
   # Table of Contents
-  [Description](#description)
-  [Installation](#installation)
-  [Usage](#usage)
-  [License](#license)
-  [Contributing](#contribution)
-  [Tests](#test)
-  [Questions](#questions)
+  -[Description](#description)
+  -[Installation](#installation)
+  -[Usage](#usage)
+  -[License](#license)
+  -[Contributing](#contribution)
+  -[Tests](#test)
+  -[Questions](#questions)
 
   # Installation Details 
   
@@ -28,14 +28,14 @@
   
 
   # License :envelope:
-  GPLv3
+  GNU AGPLv3
 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-  [License: GPL v3](http://www.gnu.org/licenses/gpl-3.0)
+  [License: AGPL v3](http://www.gnu.org/licenses/agpl-3.0)
 
   Copyright (c) [2021]  
-  Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+  Permissions of this strongest copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. When a modified version is used to provide a service over a network, the complete source code of the modified version must be made available.
 
 
   # Contributing 
