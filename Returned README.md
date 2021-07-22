@@ -11,13 +11,13 @@
   
 
   # Table of Contents
-  - [Description](#Description)
+  - [Description](#description)
   - [Installation](#Installation)
-  - [Usage](#Usage)
-  - [License](#License)
+  - [Usage](#usage)
+  - [License](#license)
   - [Contributing](#Contributing)
-  - [Tests](#Test)
-  - [Questions](#Questions)
+  - [Tests](#test)
+  - [Questions](#questions)
 
   # Installation 
   
