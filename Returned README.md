@@ -1,14 +1,14 @@
 
   
-  ![badge](https://img.shields.io/badge/license-Mozilla Public License 2.0-brightgreen)
+  ![badge](https://img.shields.io/badge/license-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)-brightgreen)
 
 
-  # qwe
+  # 
 
 
   
   # Description :page_with_curl:
-  qwe
+  
 
   # Table of Contents
   - [Description](#description)
@@ -20,23 +20,23 @@
   - [Questions](#questions)
 
   # Installation Details :open_file_folder:
-  qwe
+  
 
   # Usage :battery:
-  qwe
+  
 
   # License :envelope:
   Mozilla Public License 2.0
   ![badge](https://img.shields.io/badge/license-Mozilla Public License 2.0-brightgreen)
-  
+
 
   # Contributing :family:
-  qwe
+  
 
   # Test :arrows_counterclockwise:
-  qwe
+  
 
   # Questions  :raising_hand:
-  qwe
-  Github: [qe] (https://github.com/qe)
-  Email me your questions: qwe
+  
+  Github: [] (https://github.com/)
+  Email me your questions: 

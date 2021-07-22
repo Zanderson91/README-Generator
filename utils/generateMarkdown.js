@@ -30,7 +30,7 @@ function generateMarkdown(data) {
 
   return `
   
-  ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
+  ![badge](https://img.shields.io/badge/license-${licenseBadge}-brightgreen)
 
 
   # ${data.title}
@@ -58,7 +58,7 @@ function generateMarkdown(data) {
   # License :envelope:
   ${data.license}
   ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
-  
+
 
   # Contributing :family:
   ${data.contribution}
