@@ -13,13 +13,13 @@
   
 
   # Table of Contents
-  -[Description](#description)
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[License](#license)
-  -[Contributing](#contribution)
-  -[Tests](#test)
-  -[Questions](#questions)
+  - [Description](# description)
+  - [Installation](# installation)
+  - [Usage](# usage)
+  - [License](# license)
+  - [Contributing](# contribution)
+  - [Tests](# test)
+  - [Questions](# questions)
 
   # Installation Details 
   
