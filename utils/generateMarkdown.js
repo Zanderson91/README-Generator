@@ -71,13 +71,13 @@ function generateMarkdown(data) {
   ${data.description}
 
   # Table of Contents
-  - [Description](#description)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contributing](#contribution)
-  - [Tests](#test)
-  - [Questions](#questions)
+  [Description](#description)
+  [Installation](#installation)
+  [Usage](#usage)
+  [License](#license)
+  [Contributing](#contribution)
+  [Tests](#test)
+  [Questions](#questions)
 
   # Installation Details 
   ${data.installation}
@@ -92,7 +92,8 @@ function generateMarkdown(data) {
 
   ${licenseLinking}
 
-  Copyright (c) [2021] ${data.name} ${licenseInformation}
+  Copyright (c) [2021] ${data.name} 
+  ${licenseInformation}
 
 
   # Contributing 
