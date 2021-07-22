@@ -11,13 +11,13 @@
   
 
   # Table of Contents
-  - [Description](#description :page_with_curl:)
+  - [Description](#description:page_with_curl:)
   - [Installation](#Installation)
-  - [Usage](#usage :battery:)
-  - [License](#license :envelope:)
+  - [Usage](#usage:battery:)
+  - [License](#license:envelope:)
   - [Contributing](#Contributing)
-  - [Tests](#test :arrows_counterclockwise:)
-  - [Questions](#questions :raising_hand:)
+  - [Tests](#test:arrows_counterclockwise:)
+  - [Questions](#questions:raising_hand:)
 
   # Installation 
   
