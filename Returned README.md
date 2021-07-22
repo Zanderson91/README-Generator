@@ -11,13 +11,13 @@
   
 
   # Table of Contents
-  - [Description](#description)
+  - [Description](#description :page_with_curl:)
   - [Installation](#Installation)
-  - [Usage](#usage)
-  - [License](#license)
+  - [Usage](#usage :battery:)
+  - [License](#license :envelope:)
   - [Contributing](#Contributing)
-  - [Tests](#test)
-  - [Questions](#questions)
+  - [Tests](#test :arrows_counterclockwise:)
+  - [Questions](#questions :raising_hand:)
 
   # Installation 
   
@@ -42,7 +42,7 @@
   # Test :arrows_counterclockwise:
   
 
-  # Questions  :raising_hand:
+  # Questions :raising_hand:
   
 
   Github: [] (https://github.com/)

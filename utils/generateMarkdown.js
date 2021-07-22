@@ -69,13 +69,13 @@ function generateMarkdown(data) {
   ${data.description}
 
   # Table of Contents
-  - [Description](#description)
+  - [Description](#description :page_with_curl:)
   - [Installation](#Installation)
-  - [Usage](#usage)
-  - [License](#license)
+  - [Usage](#usage :battery:)
+  - [License](#license :envelope:)
   - [Contributing](#Contributing)
-  - [Tests](#test)
-  - [Questions](#questions)
+  - [Tests](#test :arrows_counterclockwise:)
+  - [Questions](#questions :raising_hand:)
 
   # Installation 
   ${data.installation}
@@ -100,7 +100,7 @@ function generateMarkdown(data) {
   # Test :arrows_counterclockwise:
   ${data.test}
 
-  # Questions  :raising_hand:
+  # Questions :raising_hand:
   ${data.questions}
 
   Github: [${data.username}] (https://github.com/${data.username})
