@@ -44,7 +44,6 @@ function generateMarkdown(data) {
   return `
 
   ${licenseBadge}
-  ${licenseLinking}
 
 
 
@@ -73,7 +72,10 @@ function generateMarkdown(data) {
 
   # License :envelope:
   ${data.license}
-  ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
+
+  ${licenseBadge}
+
+  ${licenseLinking}
 
 
   # Contributing :family:
@@ -84,7 +86,10 @@ function generateMarkdown(data) {
 
   # Questions  :raising_hand:
   ${data.questions}
+  
   Github: [${data.username}] (https://github.com/${data.username})
+
+
   Email me your questions: ${data.email}
 `;
 }

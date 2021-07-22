@@ -1,17 +1,16 @@
 
 
-  [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](http://www.gnu.org/licenses/lgpl-3.0)
-  [License: LGPL v3](http://www.gnu.org/licenses/lgpl-3.0)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 
 
 
-  # 
+  # qw
 
 
   
   # Description :page_with_curl:
-  
+  qw
 
   # Table of Contents
   - [Description](#description)
@@ -23,23 +22,29 @@
   - [Questions](#questions)
 
   # Installation Details :open_file_folder:
-  
+  qw
 
   # Usage :battery:
-  
+  qw
 
   # License :envelope:
-  GNU LGPLv3
-  ![badge](https://img.shields.io/badge/license-GNU LGPLv3-brightgreen)
+  Mozilla Public License 2.0
+
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
+  [License: MPL 2.0](https://opensource.org/licenses/MPL-2.0)
 
 
   # Contributing :family:
-  
+  qw
 
   # Test :arrows_counterclockwise:
-  
+  qw
 
   # Questions  :raising_hand:
+  qw
   
-  Github: [] (https://github.com/)
-  Email me your questions: 
+  Github: [qw] (https://github.com/qw)
+
+
+  Email me your questions: qw
