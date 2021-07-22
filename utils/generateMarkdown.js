@@ -28,8 +28,15 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   let licenseBadge = renderLicenseBadge(data.license);
 
-  return `# ${data.title}
+  return `
+  
 
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/${data.license}/?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/${data.username}/?style=flat&logo=appveyor)
+
+  # ${data.title}
+
+
+  
   # Description
   ${data.description}
 
