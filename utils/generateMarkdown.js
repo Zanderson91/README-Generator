@@ -17,7 +17,19 @@ console.log(renderLicenseBadge("MIT License"));
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(licenseL) {
+    const licenseLink = {
+    "MIT License": "[License: MIT](https://opensource.org/licenses/MIT)",
+    "GPLv3": "[License: GPL v3](http://www.gnu.org/licenses/gpl-3.0)",
+    "GNU AGPLv3": "[License: AGPL v3](http://www.gnu.org/licenses/agpl-3.0)",
+    "GNU LGPLv3": "[License: LGPL v3](http://www.gnu.org/licenses/lgpl-3.0)",
+    "Mozilla Public License 2.0": "[License: MPL 2.0](https://opensource.org/licenses/MPL-2.0)",
+    "Apache License 2.0": "[License](https://opensource.org/licenses/Apache-2.0)",
+
+  }
+  return licenseLink[licenseL];
+}
+
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
@@ -27,12 +39,14 @@ function renderLicenseSection(license) {}
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   let licenseBadge = renderLicenseBadge(data.license);
+  let licenseLinking = renderLicenseLink(data.license)
 
   return `
-  
-  ${licenseBadge}
 
-  ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
+  ${licenseBadge}
+  ${licenseLinking}
+
+
 
 
   # ${data.title}
