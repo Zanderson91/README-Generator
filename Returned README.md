@@ -1,14 +1,14 @@
 
   
+  ![badge](https://img.shields.io/badge/license-GPLv3-brightgreen)
 
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/Mozilla Public License 2.0/?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/qwe/?style=flat&logo=appveyor)
 
-  # qwe
+  # asd
 
 
   
   # Description
-  qwe
+  asd
 
   # Table of Contents
   - [Description](#description)
@@ -20,21 +20,21 @@
   - [Questions](#questions)
 
   # Installation Details
-  qwe
+  asd
 
   # Usage
-  qwe
+  asd
 
   # License 
-  Mozilla Public License 2.0
+  GPLv3
 
   # Contributing
-  qwe
+  asd
 
   # Test
-  qwe
+  asd
 
   # Questions
-  qwe
-  Github: [qwe] (https://github.com/qwe)
-  Email me your questions: qwe
+  asd
+  Github: [asd] (https://github.com/asd)
+  Email me your questions: asd
