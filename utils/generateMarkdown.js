@@ -65,17 +65,17 @@ function generateMarkdown(data) {
 
 
   
-  # Description :page_with_curl:
+  # Description
   ${data.description}
 
   # Table of Contents
-  - [Description](#description:page_with_curl:)
+  - [Description](#Description)
   - [Installation](#Installation)
   - [Usage](#Usage)
-  - [License](#License:envelope:)
+  - [License](#License)
   - [Contributing](#Contributing)
-  - [Tests](#test:arrows_counterclockwise:)
-  - [Questions](#questions:raising_hand:)
+  - [Tests](#Test)
+  - [Questions](#Questions)
 
   # Installation 
   ${data.installation}
@@ -83,7 +83,7 @@ function generateMarkdown(data) {
   # Usage
   ${data.usage}
 
-  # License :envelope:
+  # License
   ${data.license}
 
   ${licenseBadge}
@@ -100,7 +100,7 @@ function generateMarkdown(data) {
   # Test
   ${data.test}
 
-  # Questions :raising_hand:
+  # Questions
   ${data.questions}
 
   Github: [${data.username}] (https://github.com/${data.username})

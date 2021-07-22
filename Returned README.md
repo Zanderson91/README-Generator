@@ -7,17 +7,17 @@
 
 
   
-  # Description :page_with_curl:
+  # Description
   
 
   # Table of Contents
-  - [Description](#description:page_with_curl:)
+  - [Description](#Description)
   - [Installation](#Installation)
   - [Usage](#Usage)
-  - [License](#License:envelope:)
+  - [License](#License)
   - [Contributing](#Contributing)
-  - [Tests](#test:arrows_counterclockwise:)
-  - [Questions](#questions:raising_hand:)
+  - [Tests](#Test)
+  - [Questions](#Questions)
 
   # Installation 
   
@@ -25,7 +25,7 @@
   # Usage
   
 
-  # License :envelope:
+  # License
   GNU AGPLv3
 
   [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
@@ -42,7 +42,7 @@
   # Test
   
 
-  # Questions :raising_hand:
+  # Questions
   
 
   Github: [] (https://github.com/)
