@@ -3,8 +3,6 @@
   [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-
-
   # 
 
 
@@ -13,15 +11,15 @@
   
 
   # Table of Contents
-  - [Description](# description)
-  - [Installation](# installation)
-  - [Usage](# usage)
-  - [License](# license)
-  - [Contributing](# contribution)
-  - [Tests](# test)
-  - [Questions](# questions)
+  - [Description](#Description)
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+  - [License](#License)
+  - [Contributing](#Contributing)
+  - [Tests](#Test)
+  - [Questions](#Questions)
 
-  # Installation Details 
+  # Installation 
   
 
   # Usage :battery:

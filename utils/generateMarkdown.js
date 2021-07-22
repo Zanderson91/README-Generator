@@ -61,8 +61,6 @@ function generateMarkdown(data) {
   ${licenseBadge}
 
 
-
-
   # ${data.title}
 
 
@@ -71,15 +69,15 @@ function generateMarkdown(data) {
   ${data.description}
 
   # Table of Contents
-  - [Description](# description)
-  - [Installation](# installation)
-  - [Usage](# usage)
-  - [License](# license)
-  - [Contributing](# contribution)
-  - [Tests](# test)
-  - [Questions](# questions)
+  - [Description](#Description)
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+  - [License](#License)
+  - [Contributing](#Contributing)
+  - [Tests](#Test)
+  - [Questions](#Questions)
 
-  # Installation Details 
+  # Installation 
   ${data.installation}
 
   # Usage :battery:
