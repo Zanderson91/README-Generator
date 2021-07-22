@@ -77,27 +77,16 @@ function promptUser(){
 ])
 }
 
-/*// TODO: Create a function to write README file
-function writeToFile(fileName, data) {
-    fs.writeFile(fileName, data, err =>{
-        if(err) {
-            return console.log(err)
-        }
-        console.log("Your README.md file has been created!")
-    })
-}
-*/
-
 const generateMarkdown = require ("./utils/generateMarkdown");
 
 
-// TODO: Create a function to initialize app
+// TODO: Create a function to initialize app and write the file
 async function init() {
     try{
         const data = await promptUser();
         const generateResponse = generateMarkdown(data);
         await writeFileAsync('./Returned README.md', generateResponse);
-        console.log('Success!');
+        console.log('Your README has been created!');
     } catch(err) {
         console.log(err);
     }

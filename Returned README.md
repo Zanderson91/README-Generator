@@ -1,14 +1,14 @@
 
   
-  ![badge](https://img.shields.io/badge/license-GPLv3-brightgreen)
+  ![badge](https://img.shields.io/badge/license-Mozilla Public License 2.0-brightgreen)
 
 
-  # asd
+  # qwe
 
 
   
-  # Description
-  asd
+  # Description :page_with_curl:
+  qwe
 
   # Table of Contents
   - [Description](#description)
@@ -19,22 +19,24 @@
   - [Tests](#test)
   - [Questions](#questions)
 
-  # Installation Details
-  asd
+  # Installation Details :open_file_folder:
+  qwe
 
-  # Usage
-  asd
+  # Usage :battery:
+  qwe
 
-  # License 
-  GPLv3
+  # License :envelope:
+  Mozilla Public License 2.0
+  ![badge](https://img.shields.io/badge/license-Mozilla Public License 2.0-brightgreen)
+  
 
-  # Contributing
-  asd
+  # Contributing :family:
+  qwe
 
-  # Test
-  asd
+  # Test :arrows_counterclockwise:
+  qwe
 
-  # Questions
-  asd
-  Github: [asd] (https://github.com/asd)
-  Email me your questions: asd
+  # Questions  :raising_hand:
+  qwe
+  Github: [qe] (https://github.com/qe)
+  Email me your questions: qwe

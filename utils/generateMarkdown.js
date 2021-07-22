@@ -37,7 +37,7 @@ function generateMarkdown(data) {
 
 
   
-  # Description
+  # Description :page_with_curl:
   ${data.description}
 
   # Table of Contents
@@ -49,23 +49,24 @@ function generateMarkdown(data) {
   - [Tests](#test)
   - [Questions](#questions)
 
-  # Installation Details
+  # Installation Details :open_file_folder:
   ${data.installation}
 
-  # Usage
+  # Usage :battery:
   ${data.usage}
 
-  # License 
+  # License :envelope:
   ${data.license}
   ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
+  
 
-  # Contributing
+  # Contributing :family:
   ${data.contribution}
 
-  # Test
+  # Test :arrows_counterclockwise:
   ${data.test}
 
-  # Questions
+  # Questions  :raising_hand:
   ${data.questions}
   Github: [${data.username}] (https://github.com/${data.username})
   Email me your questions: ${data.email}
