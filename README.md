@@ -4,6 +4,9 @@ This node command line generator allows users to quickly create README.md files.
 
 ![Gif of project](./assets/README%20gif.gif)
 
+The link below will take you directly to the mp4 or you can download it in the assets folder.
+https://drive.google.com/file/d/1w8bKSTjgy6z84yQPCjdVh_UU348L4eH_/view
+
 # 09 Node.js Homework: Professional README Generator
 
 ## Your Task
