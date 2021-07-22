@@ -57,6 +57,7 @@ function generateMarkdown(data) {
 
   # License 
   ${data.license}
+  ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
 
   # Contributing
   ${data.contribution}
