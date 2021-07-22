@@ -13,8 +13,8 @@
   # Table of Contents
   - [Description](#description:page_with_curl:)
   - [Installation](#Installation)
-  - [Usage](#usage:battery:)
-  - [License](#license:envelope:)
+  - [Usage](#Usage)
+  - [License](#License:envelope:)
   - [Contributing](#Contributing)
   - [Tests](#test:arrows_counterclockwise:)
   - [Questions](#questions:raising_hand:)
@@ -22,7 +22,7 @@
   # Installation 
   
 
-  # Usage :battery:
+  # Usage
   
 
   # License :envelope:
@@ -39,7 +39,7 @@
   # Contributing 
   
 
-  # Test :arrows_counterclockwise:
+  # Test
   
 
   # Questions :raising_hand:

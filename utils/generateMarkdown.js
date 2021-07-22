@@ -71,8 +71,8 @@ function generateMarkdown(data) {
   # Table of Contents
   - [Description](#description:page_with_curl:)
   - [Installation](#Installation)
-  - [Usage](#usage:battery:)
-  - [License](#license:envelope:)
+  - [Usage](#Usage)
+  - [License](#License:envelope:)
   - [Contributing](#Contributing)
   - [Tests](#test:arrows_counterclockwise:)
   - [Questions](#questions:raising_hand:)
@@ -80,7 +80,7 @@ function generateMarkdown(data) {
   # Installation 
   ${data.installation}
 
-  # Usage :battery:
+  # Usage
   ${data.usage}
 
   # License :envelope:
@@ -97,7 +97,7 @@ function generateMarkdown(data) {
   # Contributing 
   ${data.contribution}
 
-  # Test :arrows_counterclockwise:
+  # Test
   ${data.test}
 
   # Questions :raising_hand:
